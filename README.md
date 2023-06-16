@@ -1,1 +1,1 @@
-# Mini_Project-Convert_Colored_Video_to_Grey_Scale
+# Mini Project - Convert Colored Video to Grey Scale
